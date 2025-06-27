@@ -1,4 +1,5 @@
 ccxt
-flask
 requests
+flask
+python-dateutil
 pytz
